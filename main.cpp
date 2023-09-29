@@ -11,6 +11,8 @@ int main() {
     cout << "Hello world";
     cout << "\nBye World";
     cout << "Hello Yang";
+    cout << "hello qin";
+
 
     return 0;
 }
