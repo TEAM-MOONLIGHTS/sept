@@ -1,16 +1,11 @@
 #include <iostream>
 using namespace std;
 
-void myFucntion() {
-    cout << "Hello World";
-}
-
-void secondFucntion() {
-    cout << "Second Function";
+void thirdFucntion() {
+    cout << "Third Function";
 }
 
 int main() {
-    myFucntion();
-    secondFucntion();
+    thirdFucntion();
     return 0;
 }
