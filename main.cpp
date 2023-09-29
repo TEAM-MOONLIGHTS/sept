@@ -9,5 +9,7 @@ int main() {
     thirdFucntion();
     cout << "Hello world";
     cout << "\nBye World";
+    cout << "Hello Yang";
+
     return 0;
 }
