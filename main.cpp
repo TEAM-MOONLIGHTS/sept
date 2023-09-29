@@ -8,5 +8,6 @@ void thirdFucntion() {
 int main() {
     thirdFucntion();
     cout << "Hello world";
+    cout << "\nBye World";
     return 0;
 }
