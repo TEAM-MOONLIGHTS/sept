@@ -7,5 +7,6 @@ void thirdFucntion() {
 
 int main() {
     thirdFucntion();
+    cout << "Hello world";
     return 0;
 }
